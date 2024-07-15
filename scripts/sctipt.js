@@ -13,5 +13,5 @@ window.addEventListener("load", (e) => {
     const key = urlParams.get('key');
     const value = array.find((elem)=> elem.key == key);
     
-    main.innerText = value;
+    main.innerHTML = value;
 })
