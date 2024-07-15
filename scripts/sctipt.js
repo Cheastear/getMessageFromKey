@@ -1,4 +1,4 @@
-const main = docoment.querySelector(".main");
+const main = document.querySelector(".main");
 
 const array = [
     {
