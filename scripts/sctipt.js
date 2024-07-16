@@ -164,7 +164,7 @@ window.addEventListener("load", (e) => {
     const urlParams = new URLSearchParams(window.location.search);
     const key = urlParams.get('key');
     if (key == null){
-      location.replace(location.href + "?key=3245")
+      location.replace(location.href + "?key=1111")
     }
     const value = array.find((elem)=> elem.key == key).value;
     
