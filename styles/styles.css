@@ -8,7 +8,7 @@ body, html {
 
 .main {
     border: 3px solid #777;
-    border-radius: 6px;
+    border-radius: 16px;
     padding: 12px;
     margin: 24px 16px;
     background-color: #fff;
